@@ -29,10 +29,10 @@ The JobCard component displays information about a single job, including the job
 ## Screenshots
 
 ### HomeScreen
-![HomeScreen](./screenshots/HomeScreen.png)
+![HomeScreen](./ssimg.jpg)
 
 ### LoginScreen
-![LoginScreen](./screenshots/LoginScreen.png)
+![LoginScreen](./imgss.jpg)
 
 ### How to Run
 
